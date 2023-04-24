@@ -38,5 +38,5 @@ Our recipe sharing and curation app an online platform that connects food enthus
 
 ### Project Tracker
 
-[Link to your Trello board here]
-(https://trello.com/invite/accept-board)
+Link to your Trello board: https://trello.com/b/GJOpWV6A/launchcode-liftoff
+
